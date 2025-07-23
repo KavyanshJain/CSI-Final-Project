@@ -5,13 +5,15 @@ This project predicts the creditworthiness of individuals using the Statlog (Ger
 
 ---
 ## Live webapp link:
-[]
+https://creditworthiness-predictor.streamlit.app/
 
 ---
 ## Webapp Screenshot:
 
+<img width="1366" height="2311" alt="image" src="https://github.com/user-attachments/assets/d5fc89f8-fdb7-4ed5-8f0e-36ed08a1b293" />
 
 
+---
 ## Repository Contents
 - **creditworthiness_project.ipynb**: Jupyter Notebook containing the full workflow, including data loading, detailed EDA, preprocessing, outlier handling, feature selection, and random forest model training.
 - **app.py**: Streamlit web application for inputting financial attributes and predicting creditworthiness using the trained model.
